@@ -17,3 +17,10 @@ The project includes the creation of two detailed reports that document the impl
 - **Report_2**: This report delves into the implementation of document ranking based on a query using learning to rank models, specifically logistics regression, lambdaMART, and LSTM. It covers the details and methodologies associated with these models.
 
 These reports offer a thorough examination of the implementation process for the different IR models as part of the project.
+
+
+
+Each report is accompanied by its respective folder that houses the implementation code and the generated output files.
+
+* The folder named "report_1_supplementary" contains the supporting code, data, and output files for the implementation of report_1.
+* Similarly, the folder named "report_2_supplementary" corresponds to the implementation of report_2, and it contains the relevant code, data, and output files.
